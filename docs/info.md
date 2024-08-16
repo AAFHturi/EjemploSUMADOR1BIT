@@ -12,7 +12,7 @@ You can also include images in this folder and reference them in the markdown. E
 Es un sumador completo de 1 bit
 ## How to test
 
-Señales de entrada A,B, C_IN
+Señales de entrada IN_A, IN_B, C_IN
 
 ## External hardware
 
