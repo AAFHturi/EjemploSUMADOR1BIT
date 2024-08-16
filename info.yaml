@@ -24,8 +24,8 @@ project:
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
 pinout:
   # Inputs
-  ui[0]: "A"
-  ui[1]: "B"
+  ui[0]: "IN_A"
+  ui[1]: "IN_B"
   ui[2]: "C_IN"
   ui[3]: ""
   ui[4]: ""
@@ -34,8 +34,8 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: ""
-  uo[1]: ""
+  uo[0]: "SUMA"
+  uo[1]: "C_OUT"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
@@ -44,8 +44,8 @@ pinout:
   uo[7]: ""
 
   # Bidirectional pins
-  uio[0]: "SUMA"
-  uio[1]: "C_OUT"
+  uio[0]: ""
+  uio[1]: ""
   uio[2]: ""
   uio[3]: ""
   uio[4]: ""
